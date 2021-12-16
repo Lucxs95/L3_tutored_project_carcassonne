@@ -1,0 +1,21 @@
+Chunks						
+	Types					
+		Name				
+			FIELD	FIELD	FIELD	
+		FIELD				FIELD
+		ROAD		ROAD_END		ROAD
+		FIELD				FIELD
+			FIELD	ROAD	FIELD	
+	References					
+		Name				
+			B	B	B	
+		B				B
+		A		Z		F
+		C				D
+			C	E	D	
+Data						
+	Name	Value				
+	Model	W				
+	Expansion					
+	Flags					
+	Count	4				

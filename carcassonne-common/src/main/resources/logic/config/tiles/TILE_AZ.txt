@@ -1,0 +1,21 @@
+Chunks						
+	Types					
+		Name				
+			TOWN	TOWN	TOWN	
+		FIELD				FIELD
+		FIELD		ROAD		ROAD
+		FIELD				FIELD
+			FIELD	ROAD	FIELD
+	References					
+		Name				
+			C	C	C	
+		B				B
+		B		A		A
+		B				E
+			B	A	E
+Data						
+	Name	Value				
+	Model	AZ				
+	Expansion					
+	Flags	PORTAL
+	Count	1				

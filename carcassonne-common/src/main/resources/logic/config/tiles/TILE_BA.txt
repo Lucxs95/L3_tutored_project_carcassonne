@@ -1,0 +1,21 @@
+Chunks						
+	Types					
+		Name				
+			FIELD	ROAD	FIELD	
+		FIELD				FIELD
+		ROAD		FIELD		ROAD
+		FIELD				FIELD
+			FIELD	ROAD	FIELD
+	References					
+		Name				
+			F	B	D
+		F				D
+		B		C		A
+		D				E
+			D	A	E
+Data						
+	Name	Value				
+	Model	BA				
+	Expansion					
+	Flags	PORTAL
+	Count	1				

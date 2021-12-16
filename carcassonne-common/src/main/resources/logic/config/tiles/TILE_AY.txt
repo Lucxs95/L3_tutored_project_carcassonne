@@ -1,0 +1,21 @@
+Chunks						
+	Types					
+		Name				
+			TOWN	TOWN	TOWN	
+		TOWN				TOWN
+		TOWN		TOWN		TOWN
+		TOWN				TOWN
+			FIELD	FIELD	FIELD
+	References					
+		Name				
+			C	C	C	
+		C				C
+		C		C		C
+		C				C
+			B	B	B
+Data						
+	Name	Value				
+	Model	AY				
+	Expansion					
+	Flags	PORTAL
+	Count	1				

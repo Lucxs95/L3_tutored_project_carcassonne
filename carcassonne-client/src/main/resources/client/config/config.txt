@@ -1,0 +1,20 @@
+Server
+	Name	Value
+	Host	127.0.0.1
+	Port	8080
+Logger
+	Name	Value
+	Level	INFO
+	Player_1	35m
+	Player_2	34m
+	Player_3	93m
+	Player_4	94m
+	Player_5	95m
+Match
+	Name	Value
+	NumMatches	10
+	NumPlayers	2
+Stats
+	Name	Value
+	CreateBoardView	True
+	CreateGlobalStatistics	True

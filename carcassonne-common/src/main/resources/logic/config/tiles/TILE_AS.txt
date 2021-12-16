@@ -1,0 +1,21 @@
+Chunks						
+	Types					
+		Name				
+			FIELD	FIELD	FIELD	
+		FIELD				FIELD
+		ROAD		ROAD_END		ROAD
+		FIELD				FIELD
+			FIELD	ROAD	FIELD	
+	References					
+		Name				
+			F	F	F
+		F				F
+		B		C		E
+		A				G
+			A	D	G
+Data						
+	Name	Value				
+	Model	AS				
+	Expansion					
+	Flags	DRAGON				
+	Count	1				
